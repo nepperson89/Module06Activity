@@ -1,6 +1,6 @@
-Link: http://sotd.us/nicholasepperson/Module-6/Activity/index.html 
-
 # Module06Activity
+Link: http://sotd.us/nicholasepperson/Module-6/Activity/index.html
+
 ## Purpose of the Site
 This site serves as an interactive web application for an educational module aimed at mobile user interface design using jQuery Mobile. It demonstrates mobile UI components such as page transitions, list views, panels, and form submission within a single HTML document. The application is an informational guide themed around fruits, allowing users to access sections on apples, oranges, and grapes each containing descriptive images and lists. One of the most impressive features is a user form housed in a slide-out panel which allows the user to enter their first name, favorite fruit, and a reason for their choice. 
 
